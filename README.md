@@ -639,13 +639,6 @@ MIT License - See LICENSE file
 
 ---
 
-## 👥 Contributors
-
-- **Enrique Landa Espes** (@enriquelandaespes)
-- AI-Assisted Development with Perplexity AI
-
----
-
 ## 🎯 Future Improvements
 
 ### v1.1 (Q1 2025)
